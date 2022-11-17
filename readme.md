@@ -6,7 +6,7 @@
 * this is clydes 1st commit on the github website
 
 12/23/23
-test another update just in case in this readme file
-*test	
-    *test
-*asgdy
+* test another update just in case in this readme file
+* test	
+    * test
+* asgdy
